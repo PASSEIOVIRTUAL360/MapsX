@@ -1,0 +1,21 @@
+#: locale=pt
+
+## Media
+
+### Title
+video_9C1CC568_8CB5_58D3_41DA_03D91FC5514C.label = 0209(1)
+panorama_879A5E2B_8BCE_C854_41A9_60314B2C057E.label = SALA BLACK
+panorama_80DB63AB_8BCE_D855_41C3_3AE27BBF3A36.label = SALA BRANCA
+
+### Video
+videolevel_83E95A4E_8F0F_173C_41D2_F6DAFC242326.posterURL = media/video_9C1CC568_8CB5_58D3_41DA_03D91FC5514C_poster_pt.jpg
+videolevel_83E95A4E_8F0F_173C_41D2_F6DAFC242326.url = media/video_9C1CC568_8CB5_58D3_41DA_03D91FC5514C_pt.mp4
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SITE MAPSX
