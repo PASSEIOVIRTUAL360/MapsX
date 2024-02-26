@@ -1,7 +1,8 @@
 {
+ "theme_color": "#FFFFFF",
  "display": "fullscreen",
- "start_url": "index.htm",
  "name": "SITE MAPSX",
+ "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +40,5 @@
    "sizes": "64x64"
   }
  ],
- "theme_color": "#FFFFFF",
- "background_color": "#FFFFFF"
+ "start_url": "index.htm"
 }
